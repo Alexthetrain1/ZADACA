@@ -1,0 +1,20 @@
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Korisnik\source\repos\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\vujanovic\Desktop\New folder (3)\Kalkulator zadaca\Kalkulator\obj\Debug\Kalkulator.pdb
